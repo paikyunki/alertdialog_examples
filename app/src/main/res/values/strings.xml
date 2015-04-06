@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AlertDialog Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="maybe">Maybe</string>
+    <string-array name="list">
+        <item>Apple</item>
+        <item>Pear</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Kiwi</item>
+        <item>Mango</item>
+        <item>Apple</item>
+        <item>Pear</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Kiwi</item>
+        <item>Mango</item>
+        <item>Apple</item>
+        <item>Pear</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Kiwi</item>
+        <item>Mango</item>
+    </string-array>
+</resources>
