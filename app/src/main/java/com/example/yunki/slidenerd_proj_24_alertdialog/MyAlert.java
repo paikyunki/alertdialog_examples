@@ -9,6 +9,7 @@ import android.widget.Toast;
 
 /**
  * Created by Yunki on 4/3/2015.
+ * test comment
  */
 public class MyAlert extends DialogFragment {
 
